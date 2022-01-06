@@ -9,7 +9,7 @@ Hi there 👋
 
 - 🎧 When am not coding you can find me watching movies, listening to music, or Travelling to a new place. My favorite place is Ladakh.
  
-- 😎 Have a look at my <a href="https://portfolio-srp.herokuapp.com/" target="_blank">Portfolio<a/>
+- 😎 Have a look at my <a href="https://priyanshi19-portfolio.netlify.app/" target="_blank">Portfolio<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
