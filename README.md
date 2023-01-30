@@ -1,9 +1,9 @@
 Hi there 👋
-- 🌱 I’m currently learning MERN stack at Masai School, Bengaluru, Karnataka
+- 🌱 I’m currently learning Data science course from Learnbay.com, Bengaluru, Karnataka
 
-- 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing
+- 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing, Data analyst,Python,SQL,Machine Learning, Power Bi
 
-- ⌨️ Programming: HTML, CSS, JavaScript, React, Mongoose
+- ⌨️ Programming: HTML, CSS, JavaScript, React, Mongoose, Python, SQL,Power bi,Machine learning,
 
 - 🖥️ Platforms: Windows, Linux
 
