@@ -3,7 +3,7 @@ Hi there 👋
 
 - 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing, Data analyst,Python,SQL,Machine Learning, Power Bi
 
-- ⌨️ Programming: HTML, CSS, JavaScript, React, Mongoose, Python, SQL,Power bi,Machine learning,
+- ⌨️ Programming: Python, SQL,Power bi,Machine learning, HTML, CSS, JavaScript, React, Mongoose
 
 - 🖥️ Platforms: Windows, Linux
 
