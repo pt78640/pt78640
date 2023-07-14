@@ -1,3 +1,6 @@
+# Priyanshi Tiwari
+### Data Scientist
+
 <img src="https://media.licdn.com/dms/image/D5616AQGr6OsQBYWc7Q/profile-displaybackgroundimage-shrink_350_1400/0/1684653136385?e=1694649600&v=beta&t=GHLHi8laKEyDoO5IIBtejLW6L5JDbUuXDWhJE3_Ptxo"/>
 
 ### Welcome to my Github Profile
