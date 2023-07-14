@@ -76,6 +76,7 @@ Frontend Development Skills:
   <img src="https://user-images.githubusercontent.com/77038661/126057456-dd7b1466-9ecb-4a51-b1ae-698300863f8c.png" alt="nodejs" width="60" height="40" />
   <img src="https://user-images.githubusercontent.com/77038661/126057320-5a351c96-ae79-425b-9237-a1026c8c1440.png" alt="mongoose" width="60" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"/>
   
 </p>
 
