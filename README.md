@@ -64,7 +64,7 @@ Frontend Development Skills:
 
 <h3 align="left">Tools, Libraries and Frameworks: </h3>
 <p align="left">  
-    <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="power bi" width="40" height="40"/>
+    <img src="![image](https://github.com/pt78640/pt78640/assets/64925871/20ea96fd-7d47-49b5-94c1-5a24233291f4)" alt="power bi" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
 
 
