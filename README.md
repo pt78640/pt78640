@@ -64,8 +64,9 @@ Frontend Development Skills:
 
 <h3 align="left">Tools, Libraries and Frameworks: </h3>
 <p align="left">  
-    <img src="https://powerbi.microsoft.com/en-us/](https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="power bi" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/77038661/126057529-fa91b2f6-f0e7-4d62-932e-4c13c8c5f422.png" alt="excel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="power bi" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/77038661/126056535-6d1b0c69-1d2c-451b-a27b-23de59d01ccb.png" alt="redux" width="40" height="40" />
