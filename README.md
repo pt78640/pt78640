@@ -64,10 +64,7 @@ Frontend Development Skills:
 
 <h3 align="left">Tools, Libraries and Frameworks: </h3>
 <p align="left">  
-    <img src="![image](https://github.com/pt78640/pt78640/assets/64925871/20ea96fd-7d47-49b5-94c1-5a24233291f4)" alt="power bi" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
-
-
+   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/77038661/126056535-6d1b0c69-1d2c-451b-a27b-23de59d01ccb.png" alt="redux" width="40" height="40" />
   <img src="https://user-images.githubusercontent.com/77038661/126056749-1b8695e2-53f8-4072-baaf-b9aeb5628c4e.png" alt="npm" width="40" height="40" />
