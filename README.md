@@ -78,6 +78,7 @@ Frontend Development Skills:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"  width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwpYdq5JX91Hi3Ywo5k3vDtih3xyqSNaC7tk2__VKhQ&s" width="40" height="40"/>
 </p>
 
 <h3 align="left">Git-Hub stats and achievements: </h3>
