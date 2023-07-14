@@ -1,13 +1,47 @@
-Hi there 👋
-- 🌱 I’m currently learning Data science course from Learnbay.com, Bengaluru, Karnataka
+### Welcome to my Github Profile
 
-- 🛠️ Skill Set: Data Structures, Rest API, Databases and Fronted Designing, Data analyst,Python,SQL,Machine Learning, Power Bi
+I am Priyanshi and I have a passion for exploring and analyzing data to identify patterns and trends that can make informed business decisions. I possess the skills necessary to analyze complex data sets and build predictive models. I am constantly seeking to learn and grow in the field of data science and I am committed to stay up-to-date with the latest trends and technologies.
 
-- ⌨️ Programming: Python, SQL,Power bi,Machine learning, HTML, CSS, JavaScript, React, Mongoose
+## 🔗 About Me:
 
-- 🖥️ Platforms: Windows, Linux
+- 🌱 Currently learning and exploring data science and machine learning models.
+- 🤝 Interested in collaborating on Data Analysis, Machine Learning, and Natural Language Processing (NLP) projects.
+- 💻  Experienced in data analytics skills such as Python, SQL, and Power BI.
+- 🎨 Frontend skills: Experienced in HTML, CSS, JavaScript, and ReactJS.
+- 🧠 Continuously expanding knowledge in data science and exploring new models and methodologies.
+- 📚 Worked extensively with NLP techniques, such as text preprocessing, sentiment analysis, topic modeling, and named entity recognition.
+- 🤖 Familiarity with NLP libraries and frameworks like NLTK (Natural Language Toolkit) and spaCy.
 
-- 🎧 When am not coding you can find me watching movies, listening to music, or Travelling to a new place. My favorite place is Ladakh.
+## 💻 Technical Skills: 
+
+Python for Data Science: 
+
+    1. NumPy      2. Pandas       3. Matplotlib      4. Seaborn      5. Scikit Learn      6. Natural Language Toolkit(NLTK)    
+     
+Excel: 
+
+    1. Pivot Table         2. Charts         3. Conditional Formatting         4. Advanced Formulas           5. Functions like VLookup, HLookup, XLookup
+                
+Database Management (SQL):
+
+    1. Window Functions        2. CTE           3. Temporary Tables      4. Joins and Union       5. Subqueries
+     
+Visualization Tools:
+
+    1. Power BI              2. Exel         
+      
+Statistics:
+
+     1. Descriptive Statistics      2. Inferential Statistics            3. Hypothesis Testing
+      
+Machine Learning:
+
+     1. Supervised Learning Algorithm: Linear Regression, Logistic Regression, Random Forest, Decision Tree, K-Nearest Neighbour
+     2. Unsupervised Learning Algorithm: Clustering, Dimensionality Reduction Techniques
+
+Frontend Development Skills: 
+
+    1. HTML (Hypertext Markup Language)         2. CSS (Cascading Style Sheets)        3. JavaScript         4. ReactJS 
  
 - 😎 Have a look at my <a href="https://priyanshi04.netlify.app/" target="_blank">Portfolio<a/>
 
