@@ -52,17 +52,21 @@ Frontend Development Skills:
 </p>
 <h3 align="left">Languages: </h3>
 <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img width="40" height="40" src="https://user-images.githubusercontent.com/77038661/126056320-83821049-beec-4f4b-ae1b-cfa2697f6eca.png" alt="html5" />
   <img width="40" height="40" src="https://user-images.githubusercontent.com/77038661/126056387-2f04d5ca-4f92-4fd1-b0e7-aa923436afb8.png" alt="css3" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+    
 
 
 </p>
 
 <h3 align="left">Tools, Libraries and Frameworks: </h3>
 <p align="left">  
+    <img src="https://user-images.githubusercontent.com/77038661/126057745-06f7f557-29b0-44f3-9c84-0cb2d738a65e.png" alt="power bi" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/77038661/126057529-fa91b2f6-f0e7-4d62-932e-4c13c8c5f422.png" alt="excel" width="40" height="40"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/77038661/126056535-6d1b0c69-1d2c-451b-a27b-23de59d01ccb.png" alt="redux" width="40" height="40" />
   <img src="https://user-images.githubusercontent.com/77038661/126056749-1b8695e2-53f8-4072-baaf-b9aeb5628c4e.png" alt="npm" width="40" height="40" />
