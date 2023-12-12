@@ -88,7 +88,7 @@ Frontend Development Skills:
 </p>
 
 <h3 align="left">Tools, Libraries and Frameworks: </h3>
-<p align="justify">  
+<div align="justify" style="display: flex; justify-content: space-between; align-items: center;">  
    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/>
   <img src="https://user-images.githubusercontent.com/77038661/126056535-6d1b0c69-1d2c-451b-a27b-23de59d01ccb.png" alt="redux" width="60" height="40" />
@@ -99,7 +99,7 @@ Frontend Development Skills:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"  width="60" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="60" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwpYdq5JX91Hi3Ywo5k3vDtih3xyqSNaC7tk2__VKhQ&s" width="60" height="40"/>
-</p>
+</div>
 
 <h3 align="left">Git-Hub stats and achievements: </h3>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=pt78640"><img src="https://github-profile-trophy.vercel.app/?username=pt78640" alt="Priyanshi Tiwari" /></a> </p>
