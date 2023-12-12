@@ -1,7 +1,7 @@
 # Priyanshi Tiwari
 ### Data Scientist
 
-<img src="https://media.licdn.com/dms/image/D5616AQGr6OsQBYWc7Q/profile-displaybackgroundimage-shrink_350_1400/0/1684653136385?e=1694649600&v=beta&t=GHLHi8laKEyDoO5IIBtejLW6L5JDbUuXDWhJE3_Ptxo"/>
+
 
 ### Welcome to my Github Profile
 
@@ -21,23 +21,39 @@ I am Priyanshi and I have a passion for exploring and analyzing data to identify
 
 Python for Data Science: 
 
-    1. NumPy      2. Pandas       3. Matplotlib      4. Seaborn      5. Scikit Learn      6. Natural Language Toolkit(NLTK)    
+    1. NumPy      
+    2. Pandas       
+    3. Matplotlib      
+    4. Seaborn      
+    5. Scikit Learn      
+    6. Natural Language Toolkit(NLTK)    
      
 Excel: 
 
-    1. Pivot Table         2. Charts         3. Conditional Formatting         4. Advanced Formulas           5. Functions like VLookup, HLookup, XLookup
+    1. Pivot Table         
+    2. Charts         
+    3. Conditional Formatting         
+    4. Advanced Formulas           
+    5. Functions like VLookup, HLookup, XLookup
                 
 Database Management (SQL):
 
-    1. Window Functions        2. CTE           3. Temporary Tables      4. Joins and Union       5. Subqueries
+    1. Window Functions        
+    2. CTE           
+    3. Temporary Tables      
+    4. Joins and Union       
+    5. Subqueries
      
 Visualization Tools:
 
-    1. Power BI              2. Exel         
+    1. Power BI              
+    2. Excel         
       
 Statistics:
 
-     1. Descriptive Statistics      2. Inferential Statistics            3. Hypothesis Testing
+     1. Descriptive Statistics      
+     2. Inferential Statistics            
+     3. Hypothesis Testing
       
 Machine Learning:
 
@@ -46,7 +62,10 @@ Machine Learning:
 
 Frontend Development Skills: 
 
-    1. HTML (Hypertext Markup Language)         2. CSS (Cascading Style Sheets)        3. JavaScript         4. ReactJS 
+    1. HTML (Hypertext Markup Language)         
+    2. CSS (Cascading Style Sheets)        
+    3. JavaScript         
+    4. ReactJS 
  
 - 😎 Have a look at my <a href="https://priyanshi04.netlify.app/" target="_blank">Portfolio<a/>
 
