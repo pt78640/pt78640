@@ -88,7 +88,7 @@ Frontend Development Skills:
 </p>
 
 <h3 align="left">Tools, Libraries and Frameworks: </h3>
-<p align="left">  
+<p align="justify">  
    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/>
   <img src="https://user-images.githubusercontent.com/77038661/126056535-6d1b0c69-1d2c-451b-a27b-23de59d01ccb.png" alt="redux" width="60" height="40" />
