@@ -76,6 +76,17 @@ Frontend Development Skills:
 </p>
 <h3 align="left">Languages: </h3>
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+<p align="right">
+  <img width="40" height="40" src="https://user-images.githubusercontent.com/77038661/126056320-83821049-beec-4f4b-ae1b-cfa2697f6eca.png" alt="html5" />
+  <img width="40" height="40" src="https://user-images.githubusercontent.com/77038661/126056387-2f04d5ca-4f92-4fd1-b0e7-aa923436afb8.png" alt="css3" />
+</p>
+
+<p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
