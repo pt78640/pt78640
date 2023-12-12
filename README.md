@@ -89,21 +89,6 @@ Frontend Development Skills:
 
 <h3 align="left">Tools, Libraries and Frameworks: </h3>
 <p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40" style="margin-right: 10px"/>
-  <img src="https://user-images.githubusercontent.com/77038661/126056535-6d1b0c69-1d2c-451b-a27b-23de59d01ccb.png" alt="redux" width="60" height="40" style="margin-right: 10px" />
-  <img src="https://user-images.githubusercontent.com/77038661/126056749-1b8695e2-53f8-4072-baaf-b9aeb5628c4e.png" alt="npm" width="60" height="40" style="margin-right: 10px" />
-  <img src="https://user-images.githubusercontent.com/77038661/126057456-dd7b1466-9ecb-4a51-b1ae-698300863f8c.png" alt="nodejs" width="60" height="40" style="margin-right: 10px" />
-  <img src="https://user-images.githubusercontent.com/77038661/126057320-5a351c96-ae79-425b-9237-a1026c8c1440.png" alt="mongoose" width="60" height="40" style="margin-right: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="40" style="margin-right: 10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"  width="60" height="40" style="margin-right: 10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="60" height="40" style="margin-right: 10px"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwpYdq5JX91Hi3Ywo5k3vDtih3xyqSNaC7tk2__VKhQ&s" width="60" height="40" style="margin-right: 10px"/>
-</p>
-
-
-
-<h3 align="left">Tools, Libraries and Frameworks: </h3>
-<p align="left">  
    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/>
   <img src="https://user-images.githubusercontent.com/77038661/126056535-6d1b0c69-1d2c-451b-a27b-23de59d01ccb.png" alt="redux" width="60" height="40" />
